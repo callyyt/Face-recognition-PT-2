@@ -1,0 +1,38 @@
+body
+{
+  color: #BFC3BA;
+  background: #996a8d;
+}
+
+.heading
+{
+    width: 80%;
+    font-size:22px;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.name_of_member
+{
+    color: #3F3244;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+#camera
+{
+    border: 2px dashed #2F2235;
+    width: 350;
+    height: 300px;
+}
+
+.name_of_member,#result_object_name
+{
+    color: #dadfd4;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+.name_of_member, #result_object_name, #result_object_accuracy
+{
+    color: #4c3559;
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
